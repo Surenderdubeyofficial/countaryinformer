@@ -1,6 +1,6 @@
-# React + Vite
+# GeoBrowse 🌍
 
-A small React + Vite app that lists country data with search, filtering, and details pages. Built with React, Vite, and a local JSON API included in the project.
+GeoBrowse — a lightweight React + Vite app for browsing and searching country data with search, filters, and detailed country pages.
 
 Currently, two official plugins are available:
 
@@ -26,8 +26,8 @@ Currently, two official plugins are available:
 ## Getting started — Local development 🧭
 1. Clone repo
 ```bash
-git clone https://github.com/Surenderdubeyofficial/everythingaboutworld.git
-cd everythingaboutworld
+git clone https://github.com/Surenderdubeyofficial/GeoBrowse.git
+cd GeoBrowse
 ```
 2. Install
 ```bash
@@ -45,7 +45,7 @@ npm run build
 
 ## Deploy to Netlify 🌐
 1. Sign in to Netlify and click **Add new site → Import from Git**.
-2. Connect your GitHub account and select `everythingaboutworld`.
+2. Connect your GitHub account and select `GeoBrowse`.
 3. Set **Build command** to `npm run build` and **Publish directory** to `dist`.
 4. Deploy and enable automatic deploys on push.
 

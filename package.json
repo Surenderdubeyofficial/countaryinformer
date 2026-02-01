@@ -1,5 +1,6 @@
 {
-  "name": "react_country_thapa",
+  "name": "geobrowse",
+  "description": "Browse and search country data with React + Vite",
   "private": true,
   "version": "0.0.0",
   "type": "module",
